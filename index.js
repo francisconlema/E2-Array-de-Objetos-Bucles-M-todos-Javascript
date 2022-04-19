@@ -1,6 +1,5 @@
 
 
-
 const pizzas = [
     {id: 1, nombre: `muzza`, ingredientes: [`muzzarella`], precio: 500, },
     {id: 2, nombre: `jamon`, ingredientes: [`muzzarella`, `jamon`], precio: 530,},
